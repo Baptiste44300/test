@@ -1,5 +1,5 @@
 # test
 
 SLT SLT
-REMOTE
+
 LOCAL
